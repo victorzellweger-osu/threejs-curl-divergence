@@ -1,0 +1,16 @@
+{
+  "name": "threejs-curl-divergence",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Victor Zellweger <vazellweg@gmail.com>",
+  "license": "MIT",
+  "description": "This is a proof of concept for visualizing curl and divergence in a 3D vector field using Three.js. The project includes:",
+  "scripts": {},
+  "keywords": [],
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "three": "^0.179.1"
+  }
+}
